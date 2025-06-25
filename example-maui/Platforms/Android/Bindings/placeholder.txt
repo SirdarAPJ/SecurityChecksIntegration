@@ -1,0 +1,1 @@
+Coloque o .aar aqui após compilar o projeto android-library.
